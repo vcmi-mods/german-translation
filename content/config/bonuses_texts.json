@@ -1,0 +1,476 @@
+// macros:
+// ${val} - value of bonuses; Selector: type,subtype
+// ${subtype.creature} - creature name
+// ${subtype.spell} - spell name
+// ${MR} - magic resistance of bearer
+
+
+{
+	"ADDITIONAL_ATTACK":
+	{
+		"name": "Doppelschlag",
+		"description": "Greift zweimal an"
+	},
+
+	"ADDITIONAL_RETALIATION":
+	{
+		"name": "Zusätzliche Vergeltungsmaßnahmen",
+		"description": "Kann ${val} zusätzliche Male vergelten"
+	},
+
+	"AIR_IMMUNITY":
+	{
+		"name": "Luftimmunität",
+		"description": "Immun gegen alle Luftschulzauber"
+	},
+
+	"ATTACKS_ALL_ADJACENT":
+	{
+		"name": "Rundum angreifen",
+		"description": "Greift alle benachbarten Gegner an"
+	},
+
+	"BLOCKS_RETALIATION":
+	{
+		"name": "Keine Vergeltung",
+		"description": "Feind kann nicht vergelten"
+	},
+	
+	"BLOCKS_RANGED_RETALIATION":
+	{
+		"name": "Keine Reichweitenverschiebung",
+		"description": "Feind kann nicht durch Schießen vergelten"
+	},
+
+	"CATAPULT":
+	{
+		"name": "Katapult",
+		"description": "Greift Belagerungsmauern an"
+	},
+	
+	"CATAPULT_EXTRA_SHOTS":
+	{
+		"name": "Zusätzliche Belagerungsangriffe",
+		"description": "Kann Belagerungsmauern ${val} zusätzliche Male pro Angriff treffen"
+	},
+
+	"CHANGES_SPELL_COST_FOR_ALLY":
+	{
+		"name": "Reduziere Zauberkosten (${val})",
+		"description": "Reduziert die Zauberkosten für den Helden"
+	},
+
+	"CHANGES_SPELL_COST_FOR_ENEMY":
+	{
+		"name": "Zauberdämpfer (${val})",
+		"description": "Erhöht die Kosten von gegnerischen Zaubern"
+	},
+
+	"CHARGE_IMMUNITY":
+	{
+		"name": "Immun gegen Aufladung",
+		"description": "Immune to Champion charge"
+	},
+
+	"DAEMON_SUMMONING":
+	{
+		"name": "Beschwörer (${subtype.creature})",
+		"description": "Kann Kreaturen aus Leichen auferstehen lassen"
+	},
+
+	"DARKNESS":
+	{
+		"name": "Darkness cover",
+		"description": "Fügt ${val} Dunkelheitsradius hinzu"
+	},
+
+	"DEATH_STARE":
+	{
+		"name": "Todesstarren (${val}%)",
+		"description": "${val}% Chance, eine einzelne Kreatur zu töten"
+	},
+
+	"DEFENSIVE_STANCE":
+	{
+		"name": "Verteidigungsbonus",
+		"description": "+${val} Verteidigung beim Verteidigen"
+	},
+
+	"DESTRUCTION":
+	{
+		"name": "Zerstörung",
+		"description": "Hat ${val}% Chance, zusätzliche Einheiten nach dem Angriff zu töten"
+	},
+
+	"DOUBLE_DAMAGE_CHANCE":
+	{
+		"name": "Todesstoß",
+		"description": "${val}% Chance auf doppelten Schaden"
+	},
+
+	"DRAGON_NATURE":
+	{
+		"name": "Drache",
+		"description": "Kreatur hat eine Drachennatur"
+	},
+
+	"DIRECT_DAMAGE_IMMUNITY":
+	{
+		"name": "Direkte Schadensimmunität",
+		"description": "Immun gegen Direktschadenszauber"
+	},
+
+	"EARTH_IMMUNITY":
+	{
+		"name": "Erdimmunität",
+		"description": "Immun gegen alle Zauber der Erdschule"
+	},
+
+	"ENCHANTER":
+	{
+		"name": "Verzauberer",
+		"description": "Kann jede Runde eine Masse von ${subtype.spell} zaubern"
+	},
+
+	"ENCHANTED":
+	{
+		"name": "Verzaubert",
+		"description": "Beeinflusst von permanentem ${subtype.spell}"
+	},
+
+	"ENEMY_DEFENCE_REDUCTION":
+	{
+		"name": "Ignoriere Verteidigung (${val}%)",
+		"description": "Ignoriert einen Teil der Verteidigung für den Angriff"
+	},
+
+	"FIRE_IMMUNITY":
+	{
+		"name": "Feuerimmunität",
+		"description": "Immun gegen alle Zauber der Schule des Feuers"
+	},
+
+	"FIRE_SHIELD":
+	{
+		"name": "Feuerschild (${val}%)",
+		"description": "Reflektiert einen Teil des Nahkampfschadens"
+	},
+
+	"FIRST_STRIKE":
+	{
+		"name": "Erstschlag",
+		"description": "Diese Kreatur greift zuerst an, anstatt zu vergelten"
+	},
+
+	"FEAR":
+	{
+		"name": "Furcht",
+		"description": "Verursacht Furcht bei einem gegnerischen Stapel"
+	},
+
+	"FEARLESS":
+	{
+		"name": "Furchtlos",
+		"description": "immun gegen die Fähigkeit Furcht"
+	},
+
+	"FLYING":
+	{
+		"name": "Fliegen",
+		"description": "Kann fliegen (ignoriert Hindernisse)"
+	},
+
+	"FREE_SHOOTING":
+	{
+		"name": "Nah schießen",
+		"description": "Kann im Nahkampf schießen"
+	},
+
+	"FULL_HP_REGENERATION":
+	{
+		"name": "Regeneration",
+		"description": "Kann auf volle Lebenspunkte regenerieren"
+	},
+
+	"GARGOYLE":
+	{
+		"name": "Gargoyle",
+		"description": "Kann nicht aufgerichtet oder geheilt werden"
+	},
+
+	"GENERAL_DAMAGE_REDUCTION":
+	{
+		"name": "Schaden vermindern (${val}%)",
+		"description": "Reduziert physischen Schaden aus dem Fern- oder Nahkampf"
+	},
+
+	"HATE":
+	{
+		"name": "Hasst ${subtype.creature}",
+		"description": "Macht ${val}% mehr Schaden"
+	},
+
+	"HEALER":
+	{
+		"name": "Heiler",
+		"description": "Heilt verbündete Einheiten"
+	},
+
+	"HP_REGENERATION":
+	{
+		"name": "Regeneration",
+		"description": "Heilt ${val} Trefferpunkte jede Runde"
+	},
+
+	"JOUSTING":
+	{
+		"name": "Champion Charge",
+		"description": "+5% Schaden pro zurückgelegtem Feld"
+	},
+
+	"KING1":
+	{
+		"name": "König 1",
+		"description": "Anfällig für grundlegende SLAYER"
+	},
+
+	"KING2":
+	{
+		"name": "König 2",
+		"description": "Anfällig für erweiterte SLAYER"
+	},
+
+	"KING3":
+	{
+		"name": "König3",
+		"description": "Anfällig für Experten-SLAYER"
+	},
+
+	"LEVEL_SPELL_IMMUNITY":
+	{
+		"name": "Zauberimmunität 1-${val}",
+		"description": "Immun gegen Zaubersprüche der Stufen 1-${val}"
+	},
+
+	"LIFE_DRAIN":
+	{
+		"name": "Leben entziehen (${val}%)",
+		"description": "Drainiert ${val}% des zugefügten Schadens"
+	},
+
+	"MANA_CHANNELING":
+	{
+		"name": "Magiekanal ${val}%",
+		"description": "Gibt Ihrem Helden Mana, das vom Gegner ausgegeben wird"
+	},
+
+	"MANA_DRAIN":
+	{
+		"name": "Mana-Entzug",
+		"description": "Entzieht ${val} Mana jede Runde"
+	},
+
+	"MAGIC_MIRROR":
+	{
+		"name": "Zauberspiegel (${val}%)",
+		"description": "${val}% Chance, einen Angriffszauber auf den Gegner umzulenken"
+	},
+
+	"MAGIC_RESISTANCE":
+	{
+		"name": "Magie-Widerstand(${MR}%)",
+		"description": "${MR}% Chance, gegnerischem Zauber zu widerstehen"
+	},
+
+	"MIND_IMMUNITY":
+	{
+		"name": "Geist-Zauber-Immunität",
+		"description": "Immun gegen Zauber vom Typ Geist"
+	},
+
+	"NO_DISTANCE_PENALTY":
+	{
+		"name": "Keine Entfernungsstrafe",
+		"description": "Voller Schaden aus beliebiger Entfernung"
+	},
+
+	"NO_MELEE_PENALTY":
+	{
+		"name": "Keine Nahkampf-Strafe",
+		"description": "Kreatur hat keinen Nahkampf-Malus"
+	},
+
+	"NO_MORALE":
+	{
+		"name": "Neutrale Moral",
+		"description": "Kreatur ist immun gegen Moral-Effekte"
+	},
+
+	"NO_WALL_PENALTY":
+	{
+		"name": "Keine Wand-Strafe",
+		"description": "Voller Schaden bei Belagerung"
+	},
+
+	"NON_LIVING":
+	{
+		"name": "Nicht lebend",
+		"description": "Immunität gegen viele Effekte"
+	},
+
+	"RANDOM_SPELLCASTER":
+	{
+		"name": "Zufälliger Zauberwirker",
+		"description": "Kann einen zufälligen Zauberspruch wirken"
+	},
+	
+	"RANGED_RETALIATION":
+	{
+		"name": "Fernkampf-Vergeltung",
+		"description": "Kann einen Fernkampf-Gegenangriff durchführen"
+	},
+
+	"RECEPTIVE":
+	{
+		"name": "Empfänglich",
+		"description": "Keine Immunität gegen Freundschaftszauber"
+	},
+	
+	"REBIRTH":
+	{
+		"name": "Wiedergeburt (${val}%)",
+		"description": "${val}% des Stacks wird nach dem Tod auferstehen"
+	},
+
+	"RETURN_AFTER_STRIKE":
+	{
+		"name": "Angriff und Rückkehr",
+		"description": "Kehrt nach Nahkampfangriff zurück"
+	},
+
+	"SELF_LUCK":
+	{
+		"name": "Positives Glück",
+		"description": "Hat immer positives Glück"
+	},
+
+	"SELF_MORALE":
+	{
+		"name": "Positive Moral",
+		"description": "Hat immer positive Moral"
+	},
+
+	"SHOOTER":
+	{
+		"name": "Fernkämpfer",
+		"description": "Kreatur kann schießen"
+	},
+
+	"SHOOTS_ALL_ADJACENT":
+	{
+		"name": "Schießt rundherum",
+		"description": "Die Fernkampfangriffe dieser Kreatur treffen alle Ziele in einem kleinen Bereich"
+	},
+	
+	"SOUL_STEAL":
+	{
+		"name": "Seelenraub",
+		"description": "Gewinnt ${val} neue Kreaturen für jeden getöteten Gegner"
+	},
+
+	"SPELLCASTER":
+	{
+		"name": "Zauberer",
+		"description": "Kann ${subtype.spell} zaubern"
+	},
+
+	"SPELL_AFTER_ATTACK":
+	{
+		"name": "Nach Angriff zaubern",
+		"description": "${val}%, um ${subtype.spell} nach dem Angriff zu wirken"
+	},
+
+	"SPELL_BEFORE_ATTACK":
+	{
+		"name": "Zauber vor Angriff",
+		"description": "${val}% um ${subtype.spell} vor dem Angriff zu wirken"
+	},
+
+	"SPELL_DAMAGE_REDUCTION":
+	{
+		"name": "Zauberwiderstand",
+		"description": "Schaden von Zaubern reduziert ${val}%."
+	},
+
+	"SPELL_IMMUNITY":
+	{
+		"name": "Zauberimmunität",
+		"description": "Immun gegen ${subtype.spell}"
+	},
+
+	"SPELL_LIKE_ATTACK":
+	{
+		"name": "zauberähnlicher Angriff",
+		"description": "Angriffe mit ${subtype.spell}"
+	},
+
+	"SPELL_RESISTANCE_AURA":
+	{
+		"name": "Aura des Widerstands",
+		"description": "Stapel in der Nähe erhalten ${val}% Widerstand"
+	},
+
+	"SUMMON_GUARDIANS":
+	{
+		"name": "Wächter beschwören",
+		"description": "Beschwört bei Kampfbeginn ${subtype.creature} (${val}%)"
+	},
+
+	"SYNERGY_TARGET":
+	{
+		"name": "Synergierbar",
+		"description": "Diese Kreatur ist anfällig für Synergieeffekte"
+	},
+
+	"TWO_HEX_ATTACK_BREATH":
+	{
+		"name": "Breath",
+		"description": "Atem-Angriff (2-Hex-Bereich)"
+	},
+
+	"THREE_HEADED_ATTACK":
+	{
+		"name": "Dreiköpfiger Angriff",
+		"description": "Greift drei benachbarte Einheiten an"
+	},
+	
+	"TRANSMUTATION":
+	{
+		"name": "Transmutation",
+		"description": "${val}% Chance, angegriffene Einheit in einen anderen Typ zu verwandeln"
+	},
+
+	"UNDEAD":
+	{
+		"name": "Untot",
+		"description": "Kreatur ist untot"
+	},
+
+	"UNLIMITED_RETALIATIONS":
+	{
+		"name": "Unbegrenzte Vergeltungsmaßnahmen",
+		"description": "Vergeltungen für eine beliebige Anzahl von Angriffen"
+	},
+
+	"WATER_IMMUNITY":
+	{
+		"name": "Wasser-Immunität",
+		"description": "Immun gegen alle Zauber der Wasserschule"
+	},
+	
+	"WIDE_BREATH":
+	{
+		"name": "Breiter Atem",
+		"description": "Breiter Atem-Angriff (mehrere Felder)"
+	}
+}
