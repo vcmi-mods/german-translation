@@ -1,16 +1,29 @@
 {	
 	"name" : "German translation",
 	"description" : "Patch changes any Heroes3 complete localisation into german.",
-	"version" : "1.9.2",
+	"version" : "1.9.3",
 	"author" : "heroesiiifan and many others",
 	"contact" : "https://github.com/heroesiiifan/HoMM3-German",
 	"modType" : "Translation",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
 	"changelog" : 
 	{ 
 		"1.0.0" : [ "Initial release by magikyr (only txt-files and h3c campaign)" ], 
 		"1.1.0" : [ "Complete rework with new maps, graphics and texts" ],
 		"1.7.0" : [ "VCMI" ],
 		"1.9.0" : [ "small adjustments, new strings" ],
-		"1.9.2" : [ "map titles adjusted" ] 
-	}
+		"1.9.2" : [ "map titles adjusted" ],
+		"1.9.3" : [ "rework for newer vcmi version" ]
+	},
+	"german" : {
+		"name" : "Deutsche Übersetzung",
+		"description" : "Dieser Patch ändert die Sprache jeder Heroes3 Complete Lokalisierung in Deutsch.",
+		"modType" : "Übersetzung",		
+		"translations" : [
+			"config/german.json"
+		]
+	},
 }
