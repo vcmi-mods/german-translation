@@ -5,6 +5,7 @@
 	"author" : "heroesiiifan and many others",
 	"contact" : "https://github.com/heroesiiifan/HoMM3-German",
 	"modType" : "Translation",
+	"language" : "german",
 	"compatibility" :
 	{
 		"min" : "1.2.0"
