@@ -1,6 +1,6 @@
 {	
 	"name" : "German translation",
-	"description" : "Patch changes any Heroes3 complete localisation into german.",
+	"description" : "German translation of Heroes of Might and Magic III: Complete Edition",
 	"version" : "1.9.3",
 	"author" : "heroesiiifan and many others",
 	"contact" : "https://github.com/heroesiiifan/HoMM3-German",
@@ -21,10 +21,11 @@
 	},
 	"german" : {
 		"name" : "Deutsche Übersetzung",
-		"description" : "Dieser Patch ändert die Sprache jeder Heroes3 Complete Lokalisierung in Deutsch.",
-		"modType" : "Übersetzung",		
-		"translations" : [
-			"config/german.json"
-		]
+		"description" : "Deutsche Übersetzung von Heroes of Might and Magic III: Complete Edition",	
 	},
+	"translations" : [
+		"config/vcmi-german/game.json",
+		"config/vcmi-german/maps.json",
+		"config/vcmi-german/campaigns.json"
+	]
 }
