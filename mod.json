@@ -21,7 +21,7 @@
 	},
 	"german" : {
 		"name" : "Deutsche Übersetzung",
-		"description" : "Deutsche Übersetzung von Heroes of Might and Magic III: Complete Edition",	
+		"description" : "Deutsche Übersetzung von Heroes of Might and Magic III: Complete Edition"	
 	},
 	"translations" : [
 		"config/vcmi-german/game.json",
