@@ -1,6 +1,6 @@
 {	
 	"name" : "Chronicles (german)",
-	"description" : "German translation of Heroes Chronicles\n\nRequires the chronicles mod or the chronicles h3c files in the maps folder",
+	"description" : "German translation of Heroes Chronicles.\n\nRequires the chronicles mod or the chronicles h3c files in the maps folder",
 	"version" : "1.0.0",
 	"author" : "heroesiiifan and many others",
 	"contact" : "https://github.com/vcmi-mods/german-translation",
@@ -17,7 +17,7 @@
 	},
 	"german" : {
 		"name" : "Chronicles (deutsch)",
-		"description" : "Deutsche Übersetzung von Heroes Chronicles\n\nBenötigt die Chronicles-Mod oder die Chronicles H3C-Dateien im 'maps'-Ordner."	
+		"description" : "Deutsche Übersetzung von Heroes Chronicles.\n\nBenötigt die Chronicles-Mod oder die Chronicles H3C-Dateien im 'maps'-Ordner."	
 	},
 	"translations" : [
 		"config/vcmi-german-chronicles/maps.json",
