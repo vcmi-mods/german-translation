@@ -1,0 +1,26 @@
+{	
+	"name" : "Chronicles (german)",
+	"description" : "German translation of Heroes Chronicles",
+	"version" : "1.0.0",
+	"author" : "heroesiiifan and many others",
+	"contact" : "https://github.com/vcmi-mods/german-translation",
+	"modType" : "Translation",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"german" : {
+		"name" : "Chronicles (deutsch)",
+		"description" : "Deutsche Übersetzung von Heroes Chronicles"	
+	},
+	"translations" : [
+		"config/vcmi-german-chronicles/maps.json",
+		"config/vcmi-german-chronicles/campaigns.json"
+	]
+}
