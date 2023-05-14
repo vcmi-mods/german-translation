@@ -1,9 +1,9 @@
 {	
 	"name" : "German translation",
 	"description" : "German translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.9.3",
+	"version" : "1.9.4",
 	"author" : "heroesiiifan and many others",
-	"contact" : "https://github.com/heroesiiifan/HoMM3-German",
+	"contact" : "https://github.com/vcmi-mods/german-translation",
 	"modType" : "Translation",
 	"language" : "german",
 	"compatibility" :
@@ -17,7 +17,8 @@
 		"1.7.0" : [ "VCMI" ],
 		"1.9.0" : [ "small adjustments, new strings" ],
 		"1.9.2" : [ "map titles adjusted" ],
-		"1.9.3" : [ "rework for newer vcmi version" ]
+		"1.9.3" : [ "rework for newer vcmi version" ],
+		"1.9.4" : [ "Chronicles translation added" ]
 	},
 	"german" : {
 		"name" : "Deutsche Übersetzung",
