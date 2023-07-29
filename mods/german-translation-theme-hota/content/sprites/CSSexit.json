@@ -1,0 +1,22 @@
+{
+	"basepath" : "images/",
+	"images" :
+	[
+		{
+			"frame": 0,
+			"file" : "CSSexitN"
+		},
+		{
+			"frame": 1,
+			"file" : "CSSexitS"
+		},
+		{
+			"frame": 2,
+			"file" : "CSSexitS"
+		},
+		{
+			"frame": 3,
+			"file" : "CSSexitH"
+		}
+	]
+}
