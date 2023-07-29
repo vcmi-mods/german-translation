@@ -1,0 +1,22 @@
+{
+	"basepath" : "images/",
+	"images" :
+	[
+		{
+			"frame": 0,
+			"file" : "CSSsodN"
+		},
+		{
+			"frame": 1,
+			"file" : "CSSsodS"
+		},
+		{
+			"frame": 2,
+			"file" : "CSSsodS"
+		},
+		{
+			"frame": 3,
+			"file" : "CSSsodH"
+		}
+	]
+}

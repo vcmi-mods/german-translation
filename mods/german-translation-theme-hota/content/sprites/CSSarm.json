@@ -1,0 +1,22 @@
+{
+	"basepath" : "images/",
+	"images" :
+	[
+		{
+			"frame": 0,
+			"file" : "CSSarmN"
+		},
+		{
+			"frame": 1,
+			"file" : "CSSarmS"
+		},
+		{
+			"frame": 2,
+			"file" : "CSSarmS"
+		},
+		{
+			"frame": 3,
+			"file" : "CSSarmH"
+		}
+	]
+}

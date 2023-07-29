@@ -1,0 +1,22 @@
+{	
+	"name" : "RoE-Theme (german)",
+	"description" : "Official german RoE-Theme.",
+	"version" : "1.0.0",
+	"author" : "Ubisoft",
+	"contact" : "",
+	"modType" : "Interface",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"german" : {
+		"name" : "RoE-Theme (deutsch)",
+		"description" : "Offizielles RoE-Theme."	
+	}
+}

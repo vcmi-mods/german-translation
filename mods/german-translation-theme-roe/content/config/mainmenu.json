@@ -1,0 +1,67 @@
+{
+	"game-select" : ["gamselb0", "gamselb1"],
+
+	"loading" : ["loadbar"],
+	"GUISettings":
+		[
+			{
+				"GSelPop1": { "x": 456, "y": 6, "graphic": "GSelPop1.bmp" },
+			}
+		
+		],
+
+	"window":
+	{
+		"background" : "gamselbk",
+        "video" :    {"x": 0, "y": 125, "name":"CREDITS.bik" },
+		"items" : 
+		[
+			{
+				"name" : "main",
+				"buttons":
+				[
+					{"x": -260, "y": 10,  "name":"mmenung", "hotkey" : 110, "help": 3, "command": "to new"},
+					{"x": -268, "y": 132, "name":"mmenulg", "hotkey" : 108, "help": 4, "command": "to load"},
+					{"x": -276, "y": 251, "name":"mmenuhs", "hotkey" : 104, "help": 5, "command": "highscores"},
+					{"x": -243, "y": 359, "name":"mmenucr", "hotkey" : 99,  "help": 6, "command": "to credits"},
+					{"x": -214, "y": 469, "name":"mmenuqt", "hotkey" : 27,  "help": 7, "command": "exit"}
+				]
+			},
+			{
+				"name" : "new",
+				"buttons":
+				[
+					{"x": -255, "y": 4,   "name":"gtsingl", "hotkey" : 115, "help": 10, "command": "start single"},
+					{"x": -232, "y": 120, "name":"gtmulti", "hotkey" : 109, "help": 12, "command": "start multi"},
+					{"x": -259, "y": 233, "name":"gtcampn", "hotkey" : 99,  "help": 11, "command": "to campaign"},
+					{"x": -255, "y": 358, "name":"gttutor", "hotkey" : 116, "help": 13, "command": "start tutorial"},
+					{"x": -218, "y": 464, "name":"gtback",  "hotkey" : 27,  "help": 14, "command": "to main"}
+				],
+				"images": [ {"x": 114, "y": 312, "name":"NEWGAME"} ]
+			},
+			{
+				"name" : "load",
+				"buttons":
+				[
+					{"x": -255, "y": 4,   "name":"gtsingl", "hotkey" : 115, "help": 10, "command": "load single"},
+					{"x": -232, "y": 120, "name":"gtmulti", "hotkey" : 109, "help": 12, "command": "load multi"},
+					{"x": -259, "y": 233, "name":"gtcampn", "hotkey" : 99,  "help": 11, "command": "load campaign"},
+					{"x": -255, "y": 358, "name":"gttutor", "hotkey" : 116, "help": 13, "command": "load tutorial"},
+					{"x": -218, "y": 464, "name":"gtback",  "hotkey" : 27,  "help": 14, "command": "to main"}
+				],
+				"images": [ {"x": 114, "y": 312, "name":"LOADGAME"} ]
+			},
+			{
+				"name" : "campaign",
+				"buttons":
+				[
+					{"x": -266, "y": 8,   "name":"csssod", "hotkey" : 119, "command": "campaigns sod"},
+					{"x": -306, "y": 116, "name":"cssroe", "hotkey" : 114, "command": "campaigns roe"},
+					{"x": -319, "y": 241, "name":"cssarm", "hotkey" : 97,  "command": "campaigns ab"},
+					{"x": -246, "y": 358, "name":"csscus", "hotkey" : 99,  "command": "start campaign"},
+					{"x": -218, "y": 464, "name":"cssexit", "hotkey" : 27,  "command": "to new"}
+				]
+			}
+		]
+	}
+}
