@@ -1,0 +1,22 @@
+{	
+	"name" : "HotA-Theme (german)",
+	"description" : "German HotA-Theme.",
+	"version" : "1.0.0",
+	"author" : "HotA crew",
+	"contact" : "",
+	"modType" : "Interface",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"german" : {
+		"name" : "HotA-Theme (deutsch)",
+		"description" : "Deutsches SoD-Theme."	
+	}
+}
