@@ -1,7 +1,7 @@
 {	
 	"name" : "German translation",
 	"description" : "German translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "2.1.0",
+	"version" : "2.1.1",
 	"author" : "heroesiiifan and many others",
 	"contact" : "https://github.com/vcmi-mods/german-translation",
 	"modType" : "Translation",
@@ -26,7 +26,8 @@
 		"1.9.9" : [ "bik videos" ],
 		"2.0.0" : [ "native chronicles support" ],
 		"2.0.1" : [ "reduce size" ],
-		"2.1.0" : [ "Translated never released voices of Armageddons Blade & Chronicles 5 & 6 with AI (XTTS v2)" ]
+		"2.1.0" : [ "Translated never released voices of Armageddons Blade & Chronicles 5 & 6 with AI (XTTS v2)" ],
+		"2.1.1" : [ "Fix Armageddons Blade map translation" ]
 	},
 	"german" : {
 		"name" : "Deutsche Übersetzung",
