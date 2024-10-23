@@ -18,5 +18,9 @@
 	"german" : {
 		"name" : "RoE-Theme (deutsch)",
 		"description" : "Offizielles RoE-Theme."	
-	}
+	},
+	"conflicts" :
+	[
+		"h3-themes"
+	]
 }
