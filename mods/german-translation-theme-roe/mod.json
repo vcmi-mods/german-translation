@@ -21,6 +21,8 @@
 	},
 	"conflicts" :
 	[
-		"h3-themes"
+		"h3-themes",
+		"german-translation.german-translation-theme-hota",
+		"german-translation.german-translation-theme-sod"
 	]
 }
