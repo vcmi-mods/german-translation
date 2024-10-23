@@ -18,5 +18,11 @@
 	"german" : {
 		"name" : "HotA-Theme (deutsch)",
 		"description" : "Deutsches SoD-Theme."	
-	}
+	},
+	"conflicts" :
+	[
+		"h3-themes",
+		"german-translation.german-translation-theme-roe",
+		"german-translation.german-translation-theme-sod"
+	]
 }
