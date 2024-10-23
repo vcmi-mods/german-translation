@@ -18,5 +18,9 @@
 	"german" : {
 		"name" : "SoD-Theme (deutsch)",
 		"description" : "Offizielles SoD-Theme."	
-	}
+	},
+	"conflicts" :
+	[
+		"h3-themes"
+	]
 }
