@@ -1,6 +1,6 @@
 {	
-	"name" : "HotA Font",
-	"description" : "HotA Font (Windows-1252)",
+	"name" : "HotA Font 1.6",
+	"description" : "HotA Font 1.6 (Windows-1252)",
 	"version" : "1.0.0",
 	"author" : "HotA team / victorwss",
 	"contact" : "https://github.com/victorwss/homm3-hota-translate",
@@ -15,8 +15,7 @@
 	{ 
 		"1.0.0" : [ "Initial release" ]
 	},
-	"softDepends" : [
-		"h3-themes.hota-16",
-		"h3-themes.hota-17"
+	"depends" : [
+		"h3-themes.hota-16"
 	]
 }

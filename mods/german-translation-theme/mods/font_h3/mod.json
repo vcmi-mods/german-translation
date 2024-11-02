@@ -15,12 +15,17 @@
 	{ 
 		"1.0.0" : [ "Initial release" ]
 	},
-	"softDepends" : [ 
+	"depends" : [
+		"h3-themes"
+	],
+	"softDepends" : [
 		"h3-themes.roe",
 		"h3-themes.ab",
 		"h3-themes.sod",
 		"h3-themes.complete",
 		"h3-themes.hd",
+		"h3-themes.hota-16",
+		"h3-themes.hota-17",
 		"h3-themes.hc-1",
 		"h3-themes.hc-2",
 		"h3-themes.hc-3",
