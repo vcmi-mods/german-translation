@@ -16,9 +16,6 @@
 		"1.0.0" : [ "Initial release" ]
 	},
 	"depends" : [
-		"h3-themes"
-	],
-	"softDepends" : [
 		"h3-themes.beta"
 	],
 	"german" : {
