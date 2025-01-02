@@ -1,0 +1,15 @@
+{
+    "basepath": "RanShow/",
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "RanShowN.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "RanShowS.png"
+        }
+    ]
+}

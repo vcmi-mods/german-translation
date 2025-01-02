@@ -1,7 +1,7 @@
 {	
 	"name" : "German translation",
 	"description" : "German translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "2.1.8",
+	"version" : "2.1.9",
 	"author" : "heroesiiifan and many others",
 	"contact" : "https://github.com/vcmi-mods/german-translation",
 	"modType" : "Translation",
@@ -34,7 +34,8 @@
 		"2.1.5" : [ "video subtitles (chronicles)" ],
 		"2.1.6" : [ "beta theme translation (by Aph-ra)" ],
 		"2.1.7" : [ "HD themes" ],
-		"2.1.8" : [ "moved themes to mod" ]
+		"2.1.8" : [ "moved themes to mod" ],
+		"2.1.9" : [ "additional HD files" ]
 	},
 	"german" : {
 		"name" : "Deutsche Übersetzung",

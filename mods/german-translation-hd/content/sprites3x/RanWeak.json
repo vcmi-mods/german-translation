@@ -1,0 +1,25 @@
+{
+    "basepath": "RanWeak/",
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "RanWeakN.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "RanWeakS.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "RanWeakH.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "RanWeakH.png"
+        }
+    ]
+}

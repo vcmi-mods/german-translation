@@ -1,0 +1,25 @@
+{
+    "basepath": "RanNorm/",
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "RanNormN.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "RanNormS.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "RanNormH.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "RanNormH.png"
+        }
+    ]
+}

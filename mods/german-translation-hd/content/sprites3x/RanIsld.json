@@ -1,0 +1,25 @@
+{
+    "basepath": "RanIsld/",
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "RanIsldN.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "RanIsldS.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "RanIsldH.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "RanIsldH.png"
+        }
+    ]
+}

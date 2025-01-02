@@ -1,0 +1,25 @@
+{
+    "basepath": "RanStrg/",
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "RanStrgN.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "RanStrgS.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "RanStrgH.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "RanStrgH.png"
+        }
+    ]
+}

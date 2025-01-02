@@ -1,0 +1,25 @@
+{	
+	"name" : "HD additional",
+	"description" : "Missing files from HD version",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "https://github.com/vcmi-mods/german-translation",
+	"modType" : "Compatibility",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" : [ 
+		"hd_version"
+	],
+	"german" : {
+		"name" : "HD Erweiterung",
+		"description" : "Fehlende Dateien der HD version."
+	}
+}
