@@ -24,7 +24,6 @@
 		"description" : "Deutsche Übersetzung von Heroes Chronicles."	
 	},
 	"translations" : [
-		"config/vcmi-german-chronicles/maps.json",
-		"config/vcmi-german-chronicles/campaigns.json"
+		"config/vcmi-german-chronicles/chronicles.json"
 	]
 }
