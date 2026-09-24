@@ -46,6 +46,7 @@
 	"translations" : [
 		"config/vcmi-german/game.json",
 		"config/vcmi-german/maps.json",
-		"config/vcmi-german/campaigns.json"
+		"config/vcmi-german/campaigns.json",
+		"config/vcmi-german/chronicles.json"
 	]
 }
