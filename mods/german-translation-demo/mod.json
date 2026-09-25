@@ -1,4 +1,4 @@
-{	
+{
 	"name" : "Demo",
 	"description" : "Translated demo files",
 	"version" : "1.0.0",
@@ -6,16 +6,16 @@
 	"contact" : "https://github.com/vcmi-mods/german-translation",
 	"modType" : "Compatibility",
 	"language" : "german",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.0"
 	},
 	"keepDisabled" : true,
-	"changelog" : 
-	{ 
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
-	"depends" : [ 
+	"depends" : [
 		"roe-demo"
 	],
 	"german" : {

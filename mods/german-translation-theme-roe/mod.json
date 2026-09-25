@@ -1,4 +1,4 @@
-{	
+{
 	"name" : "RoE-Theme (german)",
 	"description" : "Official german RoE-Theme.",
 	"version" : "1.0.0",
@@ -6,21 +6,20 @@
 	"contact" : "",
 	"modType" : "Interface",
 	"language" : "german",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.2.0"
 	},
 	"keepDisabled" : true,
-	"changelog" : 
-	{ 
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
 	"german" : {
 		"name" : "RoE-Theme (deutsch)",
-		"description" : "Offizielles RoE-Theme."	
+		"description" : "Offizielles RoE-Theme."
 	},
-	"conflicts" :
-	[
+	"conflicts" : [
 		"h3-themes",
 		"german-translation.german-translation-theme-hota",
 		"german-translation.german-translation-theme-sod"
